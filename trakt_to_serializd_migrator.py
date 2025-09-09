@@ -7,7 +7,7 @@ This script migrates watched shows data from a Trakt account to a Serializd acco
 Designed to work efficiently in Termux environments with proper error handling and rate limiting.
 
 Usage:
-    python trakt_to_serializd_migrator_fixed.py
+    python trakt_to_serializd_migrator.py
 """
 
 import requests
