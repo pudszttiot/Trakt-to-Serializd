@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
 """
-Trakt to Serializd Migration Script for Termux (CORRECTED VERSION)
+Trakt to Serializd Migration Script for Termux
 ===================================================================
 
 This script migrates watched shows data from a Trakt account to a Serializd account.
 Designed to work efficiently in Termux environments with proper error handling and rate limiting.
-
-Author: AI Assistant
-Compatible with: Termux, Python 3.6+
-Dependencies: requests, json, os, time
 
 Usage:
     python trakt_to_serializd_migrator_fixed.py
